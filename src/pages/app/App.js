@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 import narutoImg from '../../images/naruto.png'
-import { Quotes } from '../../components'
+import {Quotes} from '../../components'
 
 export function App() {
   return(
@@ -16,7 +16,6 @@ const Content = styled.div`
   box-sizing: border-box;
   padding: 0 50px;
   display: flex;
-  flex-wrap: wrap;
   justify-content: center;
   align-items: center;
 `;
