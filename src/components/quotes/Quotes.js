@@ -12,6 +12,7 @@ export const Quotes = ({quote, speaker, onUpdate}) => {
   )
 }
 
+// Quotes espera receber estas propriedades
 Quotes.propTypes = {
   quote: string,
   speaker: string,

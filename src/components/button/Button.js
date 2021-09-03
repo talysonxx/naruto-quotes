@@ -7,6 +7,7 @@ import styled from 'styled-components'
 //     )
 // }
 
+// espera que Button receba estas propriedades
 // Button.propTypes = {
 //     children: string
 // }
