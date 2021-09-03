@@ -24,9 +24,9 @@ const Content = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-`;
+`
 
 const NarutoImg = styled.img`
   max-width: 50vw;
   align-self: flex-end;
-`;
+`
