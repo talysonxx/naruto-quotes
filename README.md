@@ -1,3 +1,4 @@
+![Screenshot_1](https://user-images.githubusercontent.com/79946114/132094724-586c6b74-1083-4f35-ae6b-f09f6d9a9f95.png)
 # Query an API that generates random phrases from the Naruto anime
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
