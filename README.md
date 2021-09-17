@@ -1,5 +1,8 @@
 ![Screenshot_1](https://user-images.githubusercontent.com/79946114/132094724-586c6b74-1083-4f35-ae6b-f09f6d9a9f95.png)
-# Recebe dados de uma API que gera frases aleatórias dos personagens de Naruto.
+
+# Um projeto feito no bootcamp da [DIO](https://digitalinnovation.one/) (Digital Innovation One)
+
+## Recebe dados de uma API que gera frases aleatórias dos personagens de Naruto.
 
 ### Clone o projeto
 
